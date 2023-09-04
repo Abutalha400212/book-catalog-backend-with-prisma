@@ -1,0 +1,90 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\.73295ec0fcf1c40b60e183e51737eb610fc23bc5-audit.json",
+    "files": [
+        {
+            "date": 1693750346358,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-03-09-20-success.log",
+            "hash": "de191de32c2075bf84cca39e64a0db9ca5037f49407500126d7b7c48d31828c7"
+        },
+        {
+            "date": 1693756603176,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-03-09-21-success.log",
+            "hash": "5b765cfdbc8ed56b7caa7d851b1367b0efb1f073809ed1fd0a2d61725ea9f42d"
+        },
+        {
+            "date": 1693756889414,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-03-09-22-success.log",
+            "hash": "3d32c195e786c2164d800ac4e8f705df6474d5f51b8edc8d1f35dd87bd0b4928"
+        },
+        {
+            "date": 1693760420628,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-03-09-23-success.log",
+            "hash": "f8713f5c85ef5bdc636d7b84b289a500e27b3314223f9a081c1a61a84a218e74"
+        },
+        {
+            "date": 1693764997746,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-00-success.log",
+            "hash": "00af1688d77805e71949d08903d8a120ae8ee047b6527061888ae06c436efb24"
+        },
+        {
+            "date": 1693787125493,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-06-success.log",
+            "hash": "abe48c2a6a7feabb090880e7fa2c081551c0a9a41c22972abcf8d40f9e8bb9c3"
+        },
+        {
+            "date": 1693789405456,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-07-success.log",
+            "hash": "93d7c314dfde119778f03cf96705b314a80538b6d5d84385e7ee2b30b97adfe0"
+        },
+        {
+            "date": 1693796269481,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-08-success.log",
+            "hash": "e50bfc464ef6852b5848859c27a3f4f5540c28a7b5cde81f87f12c817b93856d"
+        },
+        {
+            "date": 1693796472263,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-09-success.log",
+            "hash": "657877c1c238acdbdf2482f24c55c0bbed369b5138dd2fd032bfdc518e2f57e7"
+        },
+        {
+            "date": 1693800023297,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-10-success.log",
+            "hash": "5d128afdfbd1429cab10bda838c10ae4adffddbd4ff95a5788a7ab1a42eb8f56"
+        },
+        {
+            "date": 1693804480038,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-11-success.log",
+            "hash": "c831f0c2442296868521565de6c023d2d75e5ae5b44a68a6d45314a109b45555"
+        },
+        {
+            "date": 1693807762364,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-12-success.log",
+            "hash": "1d267416a0b4098d1e123561fe1b899fac1ce3773fdefaf6fbef16a271b5823a"
+        },
+        {
+            "date": 1693810966729,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-13-success.log",
+            "hash": "406ce0bae086c5a167e41763498b5e022c92e883912fee6b782e474071a22274"
+        },
+        {
+            "date": 1693814443692,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-14-success.log",
+            "hash": "1a0a97995d72314ca68d280f268f6054b606448dd87b1b7510346360db0a0403"
+        },
+        {
+            "date": 1693818015089,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-15-success.log",
+            "hash": "75c17cd3f3cc5d1d42f5b8fa40892f7e23c12eb406eff5eb0186703209d30c67"
+        },
+        {
+            "date": 1693822674155,
+            "name": "C:\\Projects\\Book_Catallog_Backend\\logs\\winston\\successes\\phu-2023-04-09-16-success.log",
+            "hash": "360a769cc484f9c9451d6be86d0709b72d518859483ec5805cfa1c5e255d136f"
+        }
+    ],
+    "hashType": "sha256"
+}
